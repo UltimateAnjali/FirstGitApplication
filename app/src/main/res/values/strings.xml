@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirstGitApplication</string>
+    <string name="my_message">Hii.... This my second commit</string>
 </resources>

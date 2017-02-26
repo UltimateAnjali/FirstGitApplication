@@ -13,6 +13,5 @@ public class MainActivity extends AppCompatActivity {
 
         TextView tv1 = (TextView)findViewById(R.id.text1);
 
-        tv1.setText("Hii.... This message is from my app");
     }
 }
